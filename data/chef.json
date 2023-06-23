@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "img": "chef1.jpg",
+        "name": "Chef John",
+        "experience": 10,
+        "likes": 5000,
+        "recipes": [
+            {
+                "recipe_name": "Spicy Chicken Curry",
+                "recipe_img": "recipe1.jpg",
+                "ingredients": [
+                    "Chicken",
+                    "Onion",
+                    "Tomatoes",
+                    "Spices",
+                    "Oil"
+                ],
+                "method": "1. Heat oil in a pan. 2. Add onions and cook until golden brown. 3. Add tomatoes and spices. 4. Cook for 5 minutes. 5. Add chicken and cook until tender.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Grilled Salmon",
+                "recipe_img": "recipe2.jpg",
+                "ingredients": [
+                    "Salmon fillet",
+                    "Lemon",
+                    "Garlic",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "method": "1. Marinate salmon with lemon, garlic, and salt. 2. Heat the grill and brush with olive oil. 3. Grill the salmon for 4 minutes on each side. 4. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Chocolate Souffle",
+                "recipe_img": "recipe3.jpg",
+                "ingredients": [
+                    "Dark chocolate",
+                    "Eggs",
+                    "Sugar",
+                    "Butter",
+                    "Flour"
+                ],
+                "method": "1. Melt chocolate and butter. 2. Beat eggs and sugar until fluffy. 3. Fold in melted chocolate mixture and flour. 4. Pour into ramekins and bake at 180°C for 12-15 minutes. 5. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "chef2.jpg",
+        "name": "Chef Emily",
+        "experience": 8,
+        "likes": 3500,
+        "recipes": [
+            {
+                "recipe_name": "Mango Lassi",
+                "recipe_img": "recipe4.jpg",
+                "ingredients": [
+                    "Mango",
+                    "Yogurt",
+                    "Milk",
+                    "Sugar",
+                    "Ice"
+                ],
+                "method": "1. Blend mango, yogurt, milk, sugar, and ice in a blender. 2. Serve chilled.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Shrimp Biryani",
+                "recipe_img": "recipe5.jpg",
+                "ingredients": [
+                    "Shrimp",
+                    "Basmati rice",
+                    "Onion",
+                    "Spices",
+                    "Ghee"
+                ],
+                "method": "1. Cook rice and keep aside. 2. Saute onions and spices. 3. Add shrimp and cook until done. 4. Layer rice and shrimp mixture. 5. Cook on low heat for 15 minutes. 6. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mango Pudding",
+                "recipe_img": "recipe6.jpg",
+                "ingredients": [
+                    "Mango puree",
+                    "Condensed milk",
+                    "Gelatin",
+                    "Water",
+                    "Whipped cream"
+                ],
+                "method": "1. Dissolve gelatin in water. 2. Mix mango puree, condensed milk, and whipped cream. 3. Add dissolved gelatin. 4. Pour into molds and refrigerate for 2-3 hours. 5. Serve chilled.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "chef3.jpg",
+        "name": "Chef Sarah",
+        "experience": 12,
+        "likes": 4500,
+        "recipes": [
+            {
+                "recipe_name": "Chicken Biryani",
+                "recipe_img": "recipe7.jpg",
+                "ingredients": [
+                    "Chicken",
+                    "Basmati rice",
+                    "Onion",
+                    "Spices",
+                    "Ghee"
+                ],
+                "method": "1. Marinate chicken with spices and yogurt. 2. Cook rice and keep aside. 3. Saute onions until golden. 4. Add marinated chicken and cook until tender. 5. Layer rice and chicken mixture. 6. Cook on low heat for 15 minutes. 7. Serve hot.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Mutton Korma",
+                "recipe_img": "recipe8.jpg",
+                "ingredients": [
+                    "Mutton",
+                    "Onion",
+                    "Yogurt",
+                    "Spices",
+                    "Ghee"
+                ],
+                "method": "1. Heat ghee in a pan. 2. Saute onions until golden brown. 3. Add mutton and cook until tender. 4. Mix yogurt and spices. 5. Add the yogurt mixture to the pan. 6. Cook on low heat for 30 minutes. 7. Serve hot with rice or naan.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Gulab Jamun",
+                "recipe_img": "recipe9.jpg",
+                "ingredients": [
+                    "Milk powder",
+                    "Flour",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ],
+                "method": "1. Mix milk powder, flour, and a pinch of cardamom. 2. Add water and knead into a dough. 3. Shape the dough into small balls. 4. Fry the balls until golden brown. 5. Prepare sugar syrup. 6. Soak the fried balls in the syrup for 30 minutes. 7. Serve warm.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "chef4.jpg",
+        "name": "Chef Ahmed",
+        "experience": 15,
+        "likes": 6000,
+        "recipes": [
+            {
+                "recipe_name": "Beef Kebabs",
+                "recipe_img": "recipe10.jpg",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Garlic",
+                    "Spices",
+                    "Bread crumbs"
+                ],
+                "method": "1. In a bowl, mix ground beef, finely chopped onions, minced garlic, spices, and bread crumbs. 2. Shape the mixture into kebabs. 3. Grill the kebabs until cooked through. 4. Serve hot with yogurt sauce and naan bread.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Paneer Tikka Masala",
+                "recipe_img": "recipe11.jpg",
+                "ingredients": [
+                    "Paneer",
+                    "Bell peppers",
+                    "Tomato puree",
+                    "Cream",
+                    "Spices"
+                ],
+                "method": "1. Marinate paneer and bell peppers with spices and yogurt. 2. Grill the paneer and bell peppers until slightly charred. 3. In a pan, heat tomato puree and cream. 4. Add grilled paneer and bell peppers to the pan. 5. Simmer for 10 minutes. 6. Serve hot with naan or rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Rasgulla",
+                "recipe_img": "recipe12.jpg",
+                "ingredients": [
+                    "Milk",
+                    "Lemon juice",
+                    "Sugar",
+                    "Rose water",
+                    "Cardamom"
+                ],
+                "method": "1. Boil milk and add lemon juice to curdle it. 2. Strain the curdled milk to obtain chenna. 3. Knead the chenna until smooth. 4. Shape the chenna into small balls. 5. In a separate pot, prepare sugar syrup with water, sugar, rose water, and cardamom. 6. Add the chenna balls to the syrup and simmer for 20 minutes. 7. Let the rasgullas cool before serving.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "chef5.jpg",
+        "name": "Chef Fatima",
+        "experience": 7,
+        "likes": 2800,
+        "recipes": [
+            {
+                "recipe_name": "Pasta Carbonara",
+                "recipe_img": "recipe13.jpg",
+                "ingredients": [
+                    "Pasta",
+                    "Bacon",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Garlic"
+                ],
+                "method": "1. Cook pasta according to package instructions. 2. Cook bacon until crispy and set aside. 3. In a bowl, whisk eggs, grated Parmesan cheese, minced garlic, and black pepper. 4. Drain the cooked pasta and mix it with the egg mixture. 5. Add the cooked bacon and toss well. 6. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Caprese Salad",
+                "recipe_img": "recipe14.jpg",
+                "ingredients": [
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Balsamic vinegar",
+                    "Olive oil"
+                ],
+                "method": "1. Slice tomatoes and fresh mozzarella. 2. Arrange the tomato and mozzarella slices on a plate. 3. Add basil leaves on top. 4. Drizzle balsamic vinegar and olive oil over the salad. 5. Season with salt and pepper. 6. Serve chilled.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Tiramisu",
+                "recipe_img": "recipe15.jpg",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Cocoa powder"
+                ],
+                "method": "1. Dip ladyfingers in espresso and layer them in a dish. 2. In a separate bowl, mix mascarpone cheese, eggs, and sugar until creamy. 3. Spread a layer of the cheese mixture over the ladyfingers. 4. Repeat the layers. 5. Dust the top layer with cocoa powder. 6. Refrigerate for at least 4 hours before serving.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "chef6.jpg",
+        "name": "Chef Hassan",
+        "experience": 9,
+        "likes": 4100,
+        "recipes": [
+            {
+                "recipe_name": "Chicken Shawarma",
+                "recipe_img": "recipe16.jpg",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Yogurt",
+                    "Garlic",
+                    "Spices",
+                    "Pita bread"
+                ],
+                "method": "1. Marinate chicken thighs with yogurt, minced garlic, spices, and lemon juice. 2. Grill the chicken until cooked through. 3. Slice the chicken into thin strips. 4. Warm the pita bread. 5. Fill the pita bread with the sliced chicken and desired toppings. 6. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Hummus",
+                "recipe_img": "recipe17.jpg",
+                "ingredients": [
+                    "Chickpeas",
+                    "Tahini",
+                    "Garlic",
+                    "Lemon juice",
+                    "Olive oil"
+                ],
+                "method": "1. Blend chickpeas, tahini, minced garlic, lemon juice, and olive oil in a food processor. 2. Add water as needed to achieve desired consistency. 3. Season with salt and cumin. 4. Serve with pita bread or vegetables.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Baklava",
+                "recipe_img": "recipe18.jpg",
+                "ingredients": [
+                    "Phyllo dough",
+                    "Walnuts",
+                    "Honey",
+                    "Cinnamon",
+                    "Butter"
+                ],
+                "method": "1. Preheat the oven and grease a baking dish. 2. Layer phyllo dough sheets, brushing each layer with melted butter. 3. Spread a mixture of crushed walnuts, honey, and cinnamon over the layers. 4. Repeat the layers. 5. Bake until golden brown. 6. Pour honey syrup over the baklava. 7. Let it cool before serving.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "chef7.jpg",
+        "name": "Chef Aisha",
+        "experience": 6,
+        "likes": 3200,
+        "recipes": [
+            {
+                "recipe_name": "Chicken Parmesan",
+                "recipe_img": "recipe19.jpg",
+                "ingredients": [
+                    "Chicken breast",
+                    "Breadcrumbs",
+                    "Tomato sauce",
+                    "Mozzarella cheese",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Coat chicken breasts in breadcrumbs. 2. Heat oil in a pan and cook the chicken until golden brown. 3. Preheat the oven. 4. Spread tomato sauce on the bottom of a baking dish. 5. Place the cooked chicken on top. 6. Top with mozzarella and Parmesan cheese. 7. Bake until the cheese is melted and bubbly. 8. Serve hot with pasta.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Caesar Salad",
+                "recipe_img": "recipe20.jpg",
+                "ingredients": [
+                    "Romaine lettuce",
+                    "Croutons",
+                    "Parmesan cheese",
+                    "Caesar dressing",
+                    "Anchovies"
+                ],
+                "method": "1. Wash and dry romaine lettuce leaves. 2. Tear the leaves into bite-sized pieces. 3. Add croutons and shaved Parmesan cheese. 4. Drizzle Caesar dressing over the salad. 5. Toss well to coat. 6. Optional: Add anchovies for extra flavor. 7. Serve chilled.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Molten Chocolate Cake",
+                "recipe_img": "recipe21.jpg",
+                "ingredients": [
+                    "Dark chocolate",
+                    "Butter",
+                    "Eggs",
+                    "Sugar",
+                    "Flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl. 2. In a separate bowl, whisk eggs and sugar until well combined. 3. Add the melted chocolate mixture to the egg mixture. 4. Gradually add flour and mix until smooth. 5. Grease individual ramekins and pour the batter into each. 6. Bake at 200°C for 10-12 minutes. 7. Serve warm with vanilla ice cream.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
