@@ -1,46 +1,47 @@
 [
     {
         "id": 1,
-        "img": "chef1.jpg",
-        "name": "Chef John",
+        "img": "https://jessicamudditt.files.wordpress.com/2010/10/tony-khan.jpg",
+        "name": "Mr. Tony Khan",
         "experience": 10,
         "likes": 5000,
+        "bio": "Mr. Tony Khan is a highly accomplished Bangladeshi chef, renowned for his culinary expertise and passion for traditional Bangladeshi cuisine. With years of experience in the industry, Chef Tony has honed his skills and mastered the art of creating flavors that tantalize the taste buds. His commitment to using fresh, locally sourced ingredients shines through in every dish he creates, showcasing the rich and vibrant flavors of Bangladesh.",
         "recipes": [
             {
                 "recipe_name": "Spicy Chicken Curry",
-                "recipe_img": "recipe1.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/chicken-curry-pan-with-lemongrass-kaffir-lime-leaves-tomatoes-lemon-garlic_1150-25728.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Chicken",
-                    "Onion",
-                    "Tomatoes",
-                    "Spices",
-                    "Oil"
+                    "1. Chicken",
+                    "2. Onion",
+                    "3. Tomatoes",
+                    "4. Spices",
+                    "5. Oil"
                 ],
                 "method": "1. Heat oil in a pan. 2. Add onions and cook until golden brown. 3. Add tomatoes and spices. 4. Cook for 5 minutes. 5. Add chicken and cook until tender.",
                 "rating": 4.5
             },
             {
                 "recipe_name": "Grilled Salmon",
-                "recipe_img": "recipe2.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/cooked-salmon-steaks_144627-30619.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Salmon fillet",
-                    "Lemon",
-                    "Garlic",
-                    "Olive oil",
-                    "Salt"
+                    "1. Salmon fillet",
+                    "2. Lemon",
+                    "3. Garlic",
+                    "4. Olive oil",
+                    "5. Salt"
                 ],
                 "method": "1. Marinate salmon with lemon, garlic, and salt. 2. Heat the grill and brush with olive oil. 3. Grill the salmon for 4 minutes on each side. 4. Serve hot.",
                 "rating": 4.2
             },
             {
                 "recipe_name": "Chocolate Souffle",
-                "recipe_img": "recipe3.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/side-view-classic-chocolate-fondant-plate_140725-10241.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Dark chocolate",
-                    "Eggs",
-                    "Sugar",
-                    "Butter",
-                    "Flour"
+                    "1. Dark chocolate",
+                    "2. Eggs",
+                    "3. Sugar",
+                    "4. Butter",
+                    "5. Flour"
                 ],
                 "method": "1. Melt chocolate and butter. 2. Beat eggs and sugar until fluffy. 3. Fold in melted chocolate mixture and flour. 4. Pour into ramekins and bake at 180°C for 12-15 minutes. 5. Serve immediately.",
                 "rating": 4.7
@@ -49,46 +50,47 @@
     },
     {
         "id": 2,
-        "img": "chef2.jpg",
-        "name": "Chef Emily",
+        "img": "https://media.licdn.com/dms/image/C5622AQGnzjyRW2eZcg/feedshare-shrink_800/0/1633428981227?e=2147483647&v=beta&t=W6IJH1F0jmYH2usBtzXbF_FmbhkX5SnpR393OKXK1BU",
+        "name": "Ahmed Hossain",
         "experience": 8,
         "likes": 3500,
+        "bio": "Ahmed Hossain is a celebrated Bangladeshi chef, known for his remarkable culinary skills and unwavering passion for creating exceptional dishes. With a career spanning over a decade, Chef Ahmed has earned a reputation for his innovative approach to traditional Bangladeshi cuisine. His culinary journey began at a young age, inspired by his family's rich culinary traditions and the vibrant flavors of Bangladesh.",
         "recipes": [
             {
                 "recipe_name": "Mango Lassi",
-                "recipe_img": "recipe4.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/mango-juice-glass-blue-surface_1150-41955.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Mango",
-                    "Yogurt",
-                    "Milk",
-                    "Sugar",
-                    "Ice"
+                    "1. Mango",
+                    "2. Yogurt",
+                    "3. Milk",
+                    "4. Sugar",
+                    "5. Ice"
                 ],
                 "method": "1. Blend mango, yogurt, milk, sugar, and ice in a blender. 2. Serve chilled.",
                 "rating": 4.8
             },
             {
                 "recipe_name": "Shrimp Biryani",
-                "recipe_img": "recipe5.jpg",
+                "recipe_img": "https://img.freepik.com/premium-photo/traditional-indian-biryani-with-shrimp-tasty-delicious-prawns-biryani-top-view_158388-3247.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Shrimp",
-                    "Basmati rice",
-                    "Onion",
-                    "Spices",
-                    "Ghee"
+                    "1. Shrimp",
+                    "2. Basmati rice",
+                    "3. Onion",
+                    "4. Spices",
+                    "5. Ghee"
                 ],
                 "method": "1. Cook rice and keep aside. 2. Saute onions and spices. 3. Add shrimp and cook until done. 4. Layer rice and shrimp mixture. 5. Cook on low heat for 15 minutes. 6. Serve hot.",
                 "rating": 4.6
             },
             {
                 "recipe_name": "Mango Pudding",
-                "recipe_img": "recipe6.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/homemade-mango-yoghurt-marble-surface_1150-41965.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Mango puree",
-                    "Condensed milk",
-                    "Gelatin",
-                    "Water",
-                    "Whipped cream"
+                    "1. Mango puree",
+                    "2. Condensed milk",
+                    "3. Gelatin",
+                    "4. Water",
+                    "5. Whipped cream"
                 ],
                 "method": "1. Dissolve gelatin in water. 2. Mix mango puree, condensed milk, and whipped cream. 3. Add dissolved gelatin. 4. Pour into molds and refrigerate for 2-3 hours. 5. Serve chilled.",
                 "rating": 4.3
@@ -97,142 +99,47 @@
     },
     {
         "id": 3,
-        "img": "chef3.jpg",
-        "name": "Chef Sarah",
-        "experience": 12,
-        "likes": 4500,
-        "recipes": [
-            {
-                "recipe_name": "Chicken Biryani",
-                "recipe_img": "recipe7.jpg",
-                "ingredients": [
-                    "Chicken",
-                    "Basmati rice",
-                    "Onion",
-                    "Spices",
-                    "Ghee"
-                ],
-                "method": "1. Marinate chicken with spices and yogurt. 2. Cook rice and keep aside. 3. Saute onions until golden. 4. Add marinated chicken and cook until tender. 5. Layer rice and chicken mixture. 6. Cook on low heat for 15 minutes. 7. Serve hot.",
-                "rating": 4.9
-            },
-            {
-                "recipe_name": "Mutton Korma",
-                "recipe_img": "recipe8.jpg",
-                "ingredients": [
-                    "Mutton",
-                    "Onion",
-                    "Yogurt",
-                    "Spices",
-                    "Ghee"
-                ],
-                "method": "1. Heat ghee in a pan. 2. Saute onions until golden brown. 3. Add mutton and cook until tender. 4. Mix yogurt and spices. 5. Add the yogurt mixture to the pan. 6. Cook on low heat for 30 minutes. 7. Serve hot with rice or naan.",
-                "rating": 4.7
-            },
-            {
-                "recipe_name": "Gulab Jamun",
-                "recipe_img": "recipe9.jpg",
-                "ingredients": [
-                    "Milk powder",
-                    "Flour",
-                    "Sugar",
-                    "Cardamom",
-                    "Ghee"
-                ],
-                "method": "1. Mix milk powder, flour, and a pinch of cardamom. 2. Add water and knead into a dough. 3. Shape the dough into small balls. 4. Fry the balls until golden brown. 5. Prepare sugar syrup. 6. Soak the fried balls in the syrup for 30 minutes. 7. Serve warm.",
-                "rating": 4.6
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "img": "chef4.jpg",
-        "name": "Chef Ahmed",
-        "experience": 15,
-        "likes": 6000,
-        "recipes": [
-            {
-                "recipe_name": "Beef Kebabs",
-                "recipe_img": "recipe10.jpg",
-                "ingredients": [
-                    "Ground beef",
-                    "Onion",
-                    "Garlic",
-                    "Spices",
-                    "Bread crumbs"
-                ],
-                "method": "1. In a bowl, mix ground beef, finely chopped onions, minced garlic, spices, and bread crumbs. 2. Shape the mixture into kebabs. 3. Grill the kebabs until cooked through. 4. Serve hot with yogurt sauce and naan bread.",
-                "rating": 4.5
-            },
-            {
-                "recipe_name": "Paneer Tikka Masala",
-                "recipe_img": "recipe11.jpg",
-                "ingredients": [
-                    "Paneer",
-                    "Bell peppers",
-                    "Tomato puree",
-                    "Cream",
-                    "Spices"
-                ],
-                "method": "1. Marinate paneer and bell peppers with spices and yogurt. 2. Grill the paneer and bell peppers until slightly charred. 3. In a pan, heat tomato puree and cream. 4. Add grilled paneer and bell peppers to the pan. 5. Simmer for 10 minutes. 6. Serve hot with naan or rice.",
-                "rating": 4.8
-            },
-            {
-                "recipe_name": "Rasgulla",
-                "recipe_img": "recipe12.jpg",
-                "ingredients": [
-                    "Milk",
-                    "Lemon juice",
-                    "Sugar",
-                    "Rose water",
-                    "Cardamom"
-                ],
-                "method": "1. Boil milk and add lemon juice to curdle it. 2. Strain the curdled milk to obtain chenna. 3. Knead the chenna until smooth. 4. Shape the chenna into small balls. 5. In a separate pot, prepare sugar syrup with water, sugar, rose water, and cardamom. 6. Add the chenna balls to the syrup and simmer for 20 minutes. 7. Let the rasgullas cool before serving.",
-                "rating": 4.7
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "img": "chef5.jpg",
-        "name": "Chef Fatima",
+        "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg",
+        "name": "Shelly Nuruzzaman",
         "experience": 7,
         "likes": 2800,
+        "bio": "Shelly Nuruzzaman is a talented and accomplished Bangladeshi chef, renowned for her culinary expertise and innovative approach to cooking. With a deep-rooted passion for gastronomy, Chef Shelly has taken the culinary scene by storm with her unique culinary creations and creative flavor combinations.Chef Shelly Nuruzzaman continues to inspire aspiring chefs and food lovers with her creativity, culinary expertise, and unwavering commitment to creating extraordinary culinary delights.",
         "recipes": [
             {
                 "recipe_name": "Pasta Carbonara",
-                "recipe_img": "recipe13.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/front-view-delicious-spaghetti-with-garlic-white-table-pasta-dough-meal-pepper_140725-123943.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Pasta",
-                    "Bacon",
-                    "Eggs",
-                    "Parmesan cheese",
-                    "Garlic"
+                    "1. Pasta",
+                    "2. Bacon",
+                    "3. Eggs",
+                    "4. Parmesan cheese",
+                    "5. Garlic"
                 ],
                 "method": "1. Cook pasta according to package instructions. 2. Cook bacon until crispy and set aside. 3. In a bowl, whisk eggs, grated Parmesan cheese, minced garlic, and black pepper. 4. Drain the cooked pasta and mix it with the egg mixture. 5. Add the cooked bacon and toss well. 6. Serve hot.",
                 "rating": 4.4
             },
             {
                 "recipe_name": "Caprese Salad",
-                "recipe_img": "recipe14.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/salad-with-cheese-tomatoes_141793-1251.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Tomatoes",
-                    "Fresh mozzarella",
-                    "Basil leaves",
-                    "Balsamic vinegar",
-                    "Olive oil"
+                    "1. Tomatoes",
+                    "2. Fresh mozzarella",
+                    "3. Basil leaves",
+                    "4. Balsamic vinegar",
+                    "5. Olive oil"
                 ],
                 "method": "1. Slice tomatoes and fresh mozzarella. 2. Arrange the tomato and mozzarella slices on a plate. 3. Add basil leaves on top. 4. Drizzle balsamic vinegar and olive oil over the salad. 5. Season with salt and pepper. 6. Serve chilled.",
                 "rating": 4.5
             },
             {
                 "recipe_name": "Tiramisu",
-                "recipe_img": "recipe15.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/tiramisu-ingredients-arrangement-flat-lay_23-2149599595.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=sph",
                 "ingredients": [
-                    "Ladyfingers",
-                    "Espresso",
-                    "Mascarpone cheese",
-                    "Eggs",
-                    "Cocoa powder"
+                    "1. Ladyfingers",
+                    "2. Espresso",
+                    "3. Mascarpone cheese",
+                    "4. Eggs",
+                    "5. Cocoa powder"
                 ],
                 "method": "1. Dip ladyfingers in espresso and layer them in a dish. 2. In a separate bowl, mix mascarpone cheese, eggs, and sugar until creamy. 3. Spread a layer of the cheese mixture over the ladyfingers. 4. Repeat the layers. 5. Dust the top layer with cocoa powder. 6. Refrigerate for at least 4 hours before serving.",
                 "rating": 4.6
@@ -240,15 +147,16 @@
         ]
     },
     {
-        "id": 6,
-        "img": "chef6.jpg",
-        "name": "Chef Hassan",
+        "id": 4,
+        "img": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/05/21/image1_2_0.jpeg",
+        "name": "Rashedul Hasan",
         "experience": 9,
         "likes": 4100,
+        "bio": "Rashedul Hasan is a talented and passionate Bangladeshi chef, renowned for his exceptional culinary skills and unwavering dedication to the art of cooking. With a career spanning several years, Chef Rashedul has established himself as a prominent figure in the culinary industry, leaving an indelible mark with his innovative creations and culinary expertise.Chef Rashedul Hasan's culinary talent, combined with his passion for his craft, has made him a respected and beloved figure in Bangladesh's culinary landscape.",
         "recipes": [
             {
                 "recipe_name": "Chicken Shawarma",
-                "recipe_img": "recipe16.jpg",
+                "recipe_img": "https://img.freepik.com/premium-photo/traditional-turkish-oriental-cuisine-chicken-meat-doner-kebab_127425-749.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
                     "Chicken thighs",
                     "Yogurt",
@@ -261,26 +169,26 @@
             },
             {
                 "recipe_name": "Hummus",
-                "recipe_img": "recipe17.jpg",
+                "recipe_img": "https://img.freepik.com/free-photo/delicious-hummus-plate-still-life-view_23-2149595634.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=sph",
                 "ingredients": [
-                    "Chickpeas",
-                    "Tahini",
-                    "Garlic",
-                    "Lemon juice",
-                    "Olive oil"
+                    "1. Chickpeas",
+                    "2. Tahini",
+                    "3. Garlic",
+                    "4. Lemon juice",
+                    "5. Olive oil"
                 ],
                 "method": "1. Blend chickpeas, tahini, minced garlic, lemon juice, and olive oil in a food processor. 2. Add water as needed to achieve desired consistency. 3. Season with salt and cumin. 4. Serve with pita bread or vegetables.",
                 "rating": 4.5
             },
             {
                 "recipe_name": "Baklava",
-                "recipe_img": "recipe18.jpg",
+                "recipe_img": "https://img.freepik.com/premium-photo/ramadan-iftar-traditional-desserts-baklava-dates_82893-22077.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=sph",
                 "ingredients": [
-                    "Phyllo dough",
-                    "Walnuts",
-                    "Honey",
-                    "Cinnamon",
-                    "Butter"
+                    "1. Phyllo dough",
+                    "2. Walnuts",
+                    "3. Honey",
+                    "4. Cinnamon",
+                    "5. Butter"
                 ],
                 "method": "1. Preheat the oven and grease a baking dish. 2. Layer phyllo dough sheets, brushing each layer with melted butter. 3. Spread a mixture of crushed walnuts, honey, and cinnamon over the layers. 4. Repeat the layers. 5. Bake until golden brown. 6. Pour honey syrup over the baklava. 7. Let it cool before serving.",
                 "rating": 4.8
@@ -288,49 +196,99 @@
         ]
     },
     {
-        "id": 7,
-        "img": "chef7.jpg",
-        "name": "Chef Aisha",
-        "experience": 6,
-        "likes": 3200,
+        "id": 5,
+        "img": "https://i2-prod.hinckleytimes.net/incoming/article10431998.ece/ALTERNATES/s1200b/JS75777567.jpg",
+        "name": " Manik Miah",
+        "experience": 12,
+        "likes": 4500,
+        "bio": "Manik Miah is a highly skilled and esteemed Bangladeshi chef, known for his extraordinary culinary talent and deep-rooted passion for cooking. With a career spanning over two decades, Chef Manik has garnered widespread recognition for his exceptional culinary creations and dedication to preserving the authentic flavors of Bangladesh.",
         "recipes": [
             {
-                "recipe_name": "Chicken Parmesan",
-                "recipe_img": "recipe19.jpg",
+                "recipe_name": "Chicken Biryani",
+                "recipe_img": "https://img.freepik.com/free-photo/top-view-pakistan-meal-assortment_23-2148821514.jpg?w=360&t=st=1687795800~exp=1687796400~hmac=389a558c956d12c14a73966aaa20686a7e1a68e771bfe9fb40ba6b7c41c892f8",
                 "ingredients": [
-                    "Chicken breast",
-                    "Breadcrumbs",
-                    "Tomato sauce",
-                    "Mozzarella cheese",
-                    "Parmesan cheese"
+                    "1. Chicken",
+                    "2. Basmati rice",
+                    "3. Onion",
+                    "4. Spices",
+                    "5. Ghee"
                 ],
-                "method": "1. Coat chicken breasts in breadcrumbs. 2. Heat oil in a pan and cook the chicken until golden brown. 3. Preheat the oven. 4. Spread tomato sauce on the bottom of a baking dish. 5. Place the cooked chicken on top. 6. Top with mozzarella and Parmesan cheese. 7. Bake until the cheese is melted and bubbly. 8. Serve hot with pasta.",
+                "method": "1. Marinate chicken with spices and yogurt. 2. Cook rice and keep aside. 3. Saute onions until golden. 4. Add marinated chicken and cook until tender. 5. Layer rice and chicken mixture. 6. Cook on low heat for 15 minutes. 7. Serve hot.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Mutton Korma",
+                "recipe_img": "https://img.freepik.com/free-photo/delicious-pakistani-dish-high-angle_23-2148825147.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
+                "ingredients": [
+                    " 1. Mutton",
+                    " 2. Onion",
+                    " 3. Yogurt",
+                    " 4. Spices",
+                    " 5. Ghee"
+                ],
+                "method": "1. Heat ghee in a pan. 2. Saute onions until golden brown. 3. Add mutton and cook until tender. 4. Mix yogurt and spices. 5. Add the yogurt mixture to the pan. 6. Cook on low heat for 30 minutes. 7. Serve hot with rice or naan.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Gulab Jamun",
+                "recipe_img": "https://img.freepik.com/premium-photo/gulab-jamun-bowl-copper-antique-bowl-with-spoon-indian-dessert-sweet-dish_136354-7666.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
+                "ingredients": [
+                    "1. Milk powder",
+                    "2. Flour",
+                    "3. Sugar",
+                    "4. Cardamom",
+                    "5. Ghee"
+                ],
+                "method": "1. Mix milk powder, flour, and a pinch of cardamom. 2. Add water and knead into a dough. 3. Shape the dough into small balls. 4. Fry the balls until golden brown. 5. Prepare sugar syrup. 6. Soak the fried balls in the syrup for 30 minutes. 7. Serve warm.",
                 "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg",
+        "name": "Mr. Feroze Khan",
+        "experience": 15,
+        "likes": 6000,
+        "bio": "Mr. Feroze Khan is an accomplished Bangladeshi chef, revered for his remarkable culinary skills and profound passion for the art of cooking. With an illustrious career spanning several decades, Chef Feroze has established himself as a prominent figure in the culinary world, leaving an indelible mark with his exceptional creations and expertise in both traditional and contemporary cuisines.",
+        "recipes": [
+            {
+                "recipe_name": "Beef Kebabs",
+                "recipe_img": "https://img.freepik.com/free-photo/high-angle-delicious-kebab-with-lemon-ketchup_23-2148685532.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
+                "ingredients": [
+                    "1. Ground beef",
+                    "2. Onion",
+                    "3. Garlic",
+                    "4. Spices",
+                    "5. Bread crumbs"
+                ],
+                "method": "1. In a bowl, mix ground beef, finely chopped onions, minced garlic, spices, and bread crumbs. 2. Shape the mixture into kebabs. 3. Grill the kebabs until cooked through. 4. Serve hot with yogurt sauce and naan bread.",
+                "rating": 4.5
             },
             {
-                "recipe_name": "Caesar Salad",
-                "recipe_img": "recipe20.jpg",
+                "recipe_name": "Paneer Tikka Masala",
+                "recipe_img": "https://img.freepik.com/premium-photo/indian-starter-chilli-chicken-served-plate-selective-focus_466689-32139.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=ais",
                 "ingredients": [
-                    "Romaine lettuce",
-                    "Croutons",
-                    "Parmesan cheese",
-                    "Caesar dressing",
-                    "Anchovies"
+                    "1. Paneer",
+                    "2. Bell peppers",
+                    "3. Tomato puree",
+                    "4. Cream",
+                    "5. Spices"
                 ],
-                "method": "1. Wash and dry romaine lettuce leaves. 2. Tear the leaves into bite-sized pieces. 3. Add croutons and shaved Parmesan cheese. 4. Drizzle Caesar dressing over the salad. 5. Toss well to coat. 6. Optional: Add anchovies for extra flavor. 7. Serve chilled.",
-                "rating": 4.4
+                "method": "1. Marinate paneer and bell peppers with spices and yogurt. 2. Grill the paneer and bell peppers until slightly charred. 3. In a pan, heat tomato puree and cream. 4. Add grilled paneer and bell peppers to the pan. 5. Simmer for 10 minutes. 6. Serve hot with naan or rice.",
+                "rating": 4.8
             },
             {
-                "recipe_name": "Molten Chocolate Cake",
-                "recipe_img": "recipe21.jpg",
+                "recipe_name": "Rasgulla",
+                "recipe_img": "https://img.freepik.com/free-photo/tasty-indian-dessert-plate-top-view_23-2149312387.jpg?size=626&ext=jpg&ga=GA1.2.1189830713.1677247708&semt=sph",
                 "ingredients": [
-                    "Dark chocolate",
-                    "Butter",
-                    "Eggs",
-                    "Sugar",
-                    "Flour"
+                    "1. Milk",
+                    "2. Lemon juice",
+                    "3. Sugar",
+                    "4. Rose water",
+                    "5. Cardamom"
                 ],
-                "method": "1. Melt chocolate and butter in a bowl. 2. In a separate bowl, whisk eggs and sugar until well combined. 3. Add the melted chocolate mixture to the egg mixture. 4. Gradually add flour and mix until smooth. 5. Grease individual ramekins and pour the batter into each. 6. Bake at 200°C for 10-12 minutes. 7. Serve warm with vanilla ice cream.",
+                "method": "1. Boil milk and add lemon juice to curdle it. 2. Strain the curdled milk to obtain chenna. 3. Knead the chenna until smooth. 4. Shape the chenna into small balls. 5. In a separate pot, prepare sugar syrup with water, sugar, rose water, and cardamom. 6. Add the chenna balls to the syrup and simmer for 20 minutes. 7. Let the rasgullas cool before serving.",
                 "rating": 4.7
             }
         ]

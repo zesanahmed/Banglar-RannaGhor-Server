@@ -15,6 +15,12 @@ app.get('/chefData', (req, res) => {
     res.send(chefData)
 })
 
+app.get('/chefData/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedChef = chefData.find(chef => chef.id === id)
+    res.send(selectedChef)
+})
+
 app.listen(port, () => {
     console.log(`Chef API is running on Port: ${port}`);
 })
